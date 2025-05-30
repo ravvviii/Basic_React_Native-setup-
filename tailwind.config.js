@@ -12,6 +12,9 @@ module.exports = {
       },
       colors: {
         primary: "#030014",
+        army_bold: "#2B411C",
+        army_medium: "#5B7742",
+        bc:"#fefffe",
         secondary: '#151312',
         test:'#f0611a',
         light: {

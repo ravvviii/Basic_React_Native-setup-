@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "test",
+    "name": "post_pulse",
     "slug": "test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "test",
+    "scheme": "post_pulse",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
