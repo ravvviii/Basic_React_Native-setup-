@@ -22,11 +22,13 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="addDetails"
+        
         options={{
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="compass" size={size} color={color} />
+            <Ionicons name="add-circle" size={size} color={color} />
           ),
+          title:"Add",
           tabBarActiveTintColor: '#2B411C',
           tabBarInactiveTintColor: 'gray',
           headerShown: false,
